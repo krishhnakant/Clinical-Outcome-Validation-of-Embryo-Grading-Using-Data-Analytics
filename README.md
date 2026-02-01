@@ -1,0 +1,4 @@
+Dataset is not publicly. 
+The project works on the patient data and patient details. 
+According to the client policies, terma and agreements, the data is not released publicly. 
+But, access granted for using the EDA codes of Python, and the SQL file uploaded.
